@@ -18,4 +18,4 @@ Did i get you?
 
 Darn! You're still here!?!
 
-Well i give up *FRUSTRATED SCREAM*
+Well i give up /*FRUSTRATED SCREAM*/
