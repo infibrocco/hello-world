@@ -1,21 +1,29 @@
 # hello-world
 
-Just another repository
-
-Nothing to see here
-
-Absolutely nothing
-
-Why are you still here?
-
-If you are reading this, this message will self destruct in 5 seconds
-
-
-
-
-
-Did i get you?
-
-Darn! You're still here!?!
-
-Well i give up /*FRUSTRATED SCREAM*/
+-> Just another repository
+-> 
+-> Nothing to see here
+-> 
+-> Absolutely nothing
+-> 
+-> Why are you still here?
+-> 
+-> Go do your own buisiness
+-> 
+-> If you are reading this, this message will self destruct in 5 seconds
+-> 5
+-> 4
+-> 3
+-> 2
+-> 1
+-> 0
+-> *SELF DESTRUCT INITIATED*
+-> 
+-> 
+-> Did i get you?
+-> 
+-> Darn! You're still here!?!
+-> 
+-> Well i give up 
+-> 
+-> **FRUSTRATED SCREAM**
